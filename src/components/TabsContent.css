@@ -9,5 +9,6 @@
     min-width: 465px;
     display: block;
     font-weight: bold;
-    text-align: center;
+    text-align: justify;
+    text-justify: inter-word;
 }

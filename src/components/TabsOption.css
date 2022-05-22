@@ -5,6 +5,7 @@
 .opcao {
   text-align: center;
   min-width: 100px;
+  min-height: 18px;
   background: #1282bb;
   color: white;
   padding: 10px 5px 5px 5px;

@@ -9,7 +9,7 @@ class TabsMain extends Component {
     super(props)
 
     this.state = {
-      currentSelectedTab: 0
+      currentSelectedTab: this.props.currentSelected ? this.props.currentSelected : 0
     }
   }
 
