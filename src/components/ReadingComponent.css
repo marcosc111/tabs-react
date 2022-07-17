@@ -1,0 +1,15 @@
+.ReadingComponent {
+    width: auto;
+    display: inline-block;
+    margin: 0 20px;
+    vertical-align:top;
+}
+
+.horizontalline {
+    width: 100%;
+    background: gray;
+    height: 2px;
+    display: block;
+    opacity: 0.5;
+    margin-bottom: 20px;
+}

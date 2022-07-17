@@ -16,7 +16,7 @@ class TabsMain extends Component {
   render() {
     return (
       <div className="TabsMain">
-        <h1 class="titulo">{this.props.titulo}</h1>
+        <h1 className="titulo">{this.props.titulo}</h1>
         {this.props.tabsData.map((tab, index) =>
           <span key={tab.tabId} >
             <TabsOption onCustomClick={ () => this.handleClickTabOption(index) } selecionado={ this.state.currentSelectedTab === index } tabId={tab.tabId}></TabsOption>

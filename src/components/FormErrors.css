@@ -1,0 +1,12 @@
+.FormErrors {
+    margin-bottom: 20px;
+    color: rgb(223, 80, 80);
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.ErrorListWrapper {
+    width: auto;
+    display: inline-block;
+    padding-right: 30px;
+}

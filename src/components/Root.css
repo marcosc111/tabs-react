@@ -1,0 +1,12 @@
+.Root {
+    padding: 30px;
+}
+
+.line {
+    width: 2px;
+    background: gray;
+    height: 600px;
+    display: inline-block;
+    vertical-align: top;
+    opacity: 0.3;
+}

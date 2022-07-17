@@ -1,0 +1,19 @@
+.List {
+    margin-bottom: 20px;
+}
+
+.button_list {
+    display: block;
+    width: 100%;
+    line-height: 18px;
+    font-size: 20px;
+    padding: 8px;
+    border:0;
+    cursor: pointer;
+    background: #4d9c57;
+    color: white;
+}
+
+.button_list:hover {
+    background: #237a2f;
+}
