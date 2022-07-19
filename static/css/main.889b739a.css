@@ -1,0 +1,67 @@
+.TabsContent {
+    font-family: Arial, sans-serif;
+    background: rgb(177, 61, 61);
+    color: #fcfcfc;
+    padding: 20px;
+    margin: 30px;
+    min-height: 100px;
+    border-radius: 5px;
+    min-width: 465px;
+    display: block;
+    font-weight: bold;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.TabsMain {
+    font-family: Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    width: auto;
+    max-width: 700px;
+    overflow-wrap: break-word;
+}
+
+.titulo {
+    display: block;
+    margin: 20px;
+}
+
+.tab-option {
+    display: inline-block;
+}
+.TabsOption {
+  
+}
+
+.opcao {
+  text-align: center;
+  min-width: 100px;
+  min-height: 18px;
+  background: #1282bb;
+  color: white;
+  padding: 10px 5px 5px 5px;
+  margin: 8px;
+  display:inline-block;
+  border-radius: 3px;
+  border: 4px solid #1282bb;
+  font-family: Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  }
+  
+.opcao:hover {
+  cursor:pointer;
+}
+
+.selecionado {
+  color: #1282bb;
+  background: white;
+  border: 4px solid #1282bb;
+}
+
+/*# sourceMappingURL=main.889b739a.css.map*/
